@@ -274,3 +274,17 @@ ul a{
     padding-top: 5px;
     
 }
+
+.opt{
+    text-align: left;
+    background-color:#2e2f2f;
+    color: white;
+    padding: 2px;
+}
+
+.optall{
+    text-align: center;
+    background-color:#2e2f2f;
+    color: white;
+    padding: 2px;
+}
